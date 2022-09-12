@@ -11,5 +11,5 @@ int main(){
 cout<<"Enter a number"<<endl;
 cin>>a;
 cout<<"The factorial of "<<a<<" is "<<factorial(a)<<endl;
-return 0;
+return 0; 
 }
